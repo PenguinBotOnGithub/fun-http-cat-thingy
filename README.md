@@ -1,2 +1,3 @@
-# fun-http-cat-thingy
-A Flutter project I made that displays cats images from http.cat
+# flutter_mobile_test_1
+
+Idk how to build a non-debug release version of this.
